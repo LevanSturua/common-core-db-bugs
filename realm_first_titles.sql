@@ -4,10 +4,9 @@
 
 INSERT INTO `world`.`achievement_reward` (`entry`, `title_A`, `title_H`) VALUES ('457', '85', '85');
 
--- classes
+-- races
 -- realm first 80 orc
 INSERT INTO `world`.`achievement_reward` (`entry`, `title_A`, `title_H`) VALUES ('1410', '0', '116');
-
 -- realm first 80 troll
 INSERT INTO `world`.`achievement_reward` (`entry`, `title_A`, `title_H`) VALUES ('1412', '0', '118');
 -- realm first 80 blood elf
